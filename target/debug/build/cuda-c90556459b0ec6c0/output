@@ -1,0 +1,2 @@
+cargo:rustc-link-lib=cudart
+cargo:rustc-link-search=native=/usr/local/cuda/lib64
